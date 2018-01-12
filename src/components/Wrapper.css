@@ -1,0 +1,13 @@
+.wrapper {
+	border-style: solid;
+	border-color: grey;
+	border-width: 2px;
+	width: 95%;
+	margin: auto;
+	margin-bottom: 25px;
+	background: white;
+}
+
+#root {
+	margin-top: 0px;
+}

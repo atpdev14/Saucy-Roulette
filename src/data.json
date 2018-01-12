@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Cholula",
+    "image": "https://i5.walmartimages.com/asr/c2a1d8e7-be5a-45ce-8a5c-24fb647d0d5e_1.b52b179085bf07b98341f8620925d043.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "name": "Valentina",
+    "image": "https://i5.walmartimages.com/asr/3b2679f3-a3fb-4811-a7a9-ba6e7170d071_1.6921ee184b150968d253220a9c3afbc3.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "name": "Sweet Baby Ray's Hot Sauce",
+    "image": "https://target.scene7.com/is/image/Target/52120763?wid=520&hei=520&fmt=pjpeg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "name": "Texas Pete",
+    "image": "https://americanfizz.co.uk/image/cache/catalog/american-groceries/texas-pete/texas-pete-original-hot-sauce-6oz-800x800.png",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "name": "Crystal",
+    "image": "https://i5.walmartimages.com/asr/fc033061-8f9d-4902-8bba-0be5520bc14b_1.72183d53c7c76399ba2f5316ea6390ad.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "name": "Goya",
+    "image": "https://i5.walmartimages.com/asr/0028b6e5-be7a-4216-a86a-d5ae2b5cded2_1.5d7030960da8a5150b608f96a93aaaa2.jpeg?odnHeight=450&odnWidth=450&odnBg=FFFFFF",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "name": "Frank's Red Hot",
+    "image": "https://target.scene7.com/is/image/Target/13127785?wid=520&hei=520&fmt=pjpeg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "name": "Louisiana Hot Sauce",
+    "image": "https://www.dollartree.com/assets/product_images_2016/styles/xlarge/137133.jpg",
+    "clicked": false
+  }
+]

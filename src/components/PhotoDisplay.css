@@ -1,0 +1,15 @@
+.photoDiv {
+	position: relative;
+	height: auto;
+	width: auto;
+}
+
+.saucePhoto {
+	-webkit-box-shadow: 6px 6px 38px -6px rgba(0,0,0,0.67);
+	-moz-box-shadow: 6px 6px 38px -6px rgba(0,0,0,0.67);
+	box-shadow: 6px 6px 38px -6px rgba(0,0,0,0.67);
+	margin: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
